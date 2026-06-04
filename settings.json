@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "metamine14.aternos.me",
+    "port": 63262,
     "version": "",
     "try-creative": false
   },
